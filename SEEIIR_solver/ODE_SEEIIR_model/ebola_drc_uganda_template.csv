@@ -1,0 +1,15 @@
+date,country,cum_confirmed_cases,cum_confirmed_deaths,cum_recovered,quality,source_note
+2026-05-18,DRC,33,4,,reported,WHO sitrep 18 May as summarised on Wikipedia - verify
+2026-05-27,DRC,121,17,,reported,NICD summary of DRC MoH report - verify
+2026-06-02,DRC,344,,,reported,RIVM summary of DRC MoH report - verify
+2026-07-13,DRC,2000,,,milestone,Date on which 2000 confirmed was reached (Wikipedia) - approximate
+2026-07-24,DRC,3000,,,milestone,Date on which 3000 confirmed was reached (Wikipedia) - approximate
+2026-07-30,DRC,3605,1587,651,reported,WHO DON614 - verify
+2026-08-04,DRC,3973,1801,,reported,ECDC 6 Aug via ebolamap.org - verify
+2026-08-07,DRC,4000,,,milestone,Date on which 4000 confirmed was reached (Wikipedia) - approximate
+2026-08-10,DRC,4449,2061,,reported,ebolamap.org daily report - verify
+2026-08-23,DRC,5584,2680,,reported,WHO AFRO sitrep via ebolamap.org - verify
+2026-08-26,DRC,5794,2786,,reported,WHO DON616 via ebolamap.org - verify
+2026-05-18,Uganda,2,1,,reported,WHO sitrep 18 May as summarised on Wikipedia - verify
+2026-05-27,Uganda,7,1,,reported,NICD summary - verify
+2026-08-04,Uganda,20,2,,reported,ECDC 6 Aug via ebolamap.org - final Uganda total
