@@ -1,0 +1,287 @@
+date,country,cum_confirmed_cases,cum_confirmed_deaths,cum_recovered,quality,source_note
+2026-05-15,DRC,7,,0.0,compiled,BNO / WHO DON / DRC MoH declaration
+2026-05-16,DRC,11,,0.0,compiled,BNO News (May 16) / Africa CDC
+2026-05-17,DRC,11,,0.0,compiled,BNO News (May 17) / WHO PHEIC declaration
+2026-05-18,DRC,31,,0.0,compiled,WHO AFRO Weekly Sitrep 01 (as of 18 May) + BNO News for confirmed
+2026-05-19,DRC,31,,0.0,compiled,WHO Sitrep 01 figures carried forward (no-dip rule); May 19 Wikipedia 
+2026-05-20,DRC,49,,0.0,compiled,BNO News (May 20) / WHO Director-General briefing
+2026-05-21,DRC,83,,0.0,compiled,WHO DON603 (data as of 21 May; pub. 22 May)
+2026-05-22,DRC,83,,0.0,compiled,WHO DON603 figures carried forward (no-dip rule); May 22 CDC reported 
+2026-05-23,DRC,83,,0.0,compiled,WHO Tedros briefing (May 22; via CIDRAP/ABC) + Uganda MoH (May 23); DR
+2026-05-24,DRC,105,10.0,0.0,compiled,WHO AFRO Weekly External Situation Report 02 (data as of 24 May 2026; 
+2026-05-25,DRC,105,10.0,0.0,compiled,CDC Situation Summary (last updated 25 May 2026) reports DRC 906 sus /
+2026-05-26,DRC,105,10.0,0.0,compiled,REVISED 30 May per WHO DON605 (publ. 29 May 2026): WHO-reconciled DRC 
+2026-05-27,DRC,125,17.0,0.0,compiled,WHO DON605 (publ. 29 May 2026; data as of 27 May): DRC 906 sus / 125 c
+2026-05-28,DRC,125,17.0,0.0,compiled,WHO DON605 DRC figures carried forward from 27 May (no fresher WHO cum
+2026-05-29,DRC,125,17.0,0.0,compiled,WHO DON605 (publ. 29 May 2026): DRC 906 sus / 125 conf / 223 sus_death
+2026-05-30,DRC,225,17.0,0.0,compiled,REVISED 2026-05-31 (PM): MoH methodology-change carve-out applied per 
+2026-05-31,DRC,321,48.0,0.0,compiled,REVISED 2026-06-08 (Web-directed; WHO Sitrep 03 reconciliation): WHO W
+2026-06-01,DRC,321,48.0,0.0,compiled,REVISED 2026-06-02 per WHO + CDC reconciliation. Reuters via CNBC Afri
+2026-06-02,DRC,321,48.0,0.0,compiled,Reuters via CNBC Africa June 2: WHO spokesperson Christian Lindmeier (
+2026-06-03,DRC,344,60.0,6.0,compiled,WHO Director-General media briefing; 3 June 2026: DRC 344 confirmed / 
+2026-06-04,DRC,381,64.0,7.0,compiled,BACKFILL (added 2026-06-08 run): BNO @BNOFeed June 4; 2026 graphic (Mo
+2026-06-05,DRC,381,64.0,8.0,compiled,[WHO Disease Outbreak News; as of 5 June 2026] + DRC MoH via Health Mi
+2026-06-06,DRC,515,91.0,9.0,compiled,REVISED 2026-06-10 per WHO DON606 (https://www.who.int/emergencies/dis
+2026-06-07,DRC,550,101.0,12.0,compiled,REVISED 2026-06-12 per WHO Weekly External Situation Report 04 (data a
+2026-06-08,DRC,550,101.0,19.0,compiled,BNO News @BNOFeed Daily Ebola Update June 8; 2026 graphic (MoH DR Cong
+2026-06-09,DRC,598,115.0,22.0,compiled,BNO News @BNOFeed Daily Ebola Update June 9; 2026 graphic (MoH DR Cong
+2026-06-10,DRC,635,127.0,30.0,compiled,BNO News @BNOFeed Daily Ebola Update June 10; 2026 graphic (MoH DR Con
+2026-06-11,DRC,676,136.0,32.0,compiled,BACKFILL (added 2026-06-12 run): BNO @BNOFeed June 11; 2026 graphic (M
+2026-06-12,DRC,689,139.0,32.0,compiled,BACKFILL (added 2026-06-14 run): derived from BNO @BNOFeed June 13; 20
+2026-06-13,DRC,710,149.0,35.0,compiled,BACKFILL (added 2026-06-14 run): BNO @BNOFeed June 13; 2026 graphic (M
+2026-06-14,DRC,808,192.0,,compiled,REVISED 2026-06-16 per WHO Weekly External Situation Report 05 (https:
+2026-06-15,DRC,808,192.0,48.0,compiled,BACKFILL (added 2026-06-16 run): BNO @BNOFeed June 15; 2026 graphic (M
+2026-06-16,DRC,837,196.0,49.0,compiled,BACKFILL (added 2026-06-17 run): BNO @BNOFeed June 16; 2026 graphic (M
+2026-06-17,DRC,875,202.0,67.0,compiled,BACKFILL (added 2026-06-18 run): BNO @BNOFeed June 17; 2026 graphic (M
+2026-06-18,DRC,896,232.0,78.0,compiled,"BNO @BNOFeed June 18; 2026 graphic (MoH DR Congo + MoH Uganda + WHO; """
+2026-06-19,DRC,933,245.0,80.0,compiled,"BNO @BNOFeed June 19; 2026 graphic (MoH DR Congo + MoH Uganda + WHO; """
+2026-06-20,DRC,956,247.0,92.0,compiled,BACKFILL (added 2026-06-21 run): BNO @BNOFeed June 20; 2026 graphic (M
+2026-06-21,DRC,1048,267.0,100.0,compiled,REVISED 2026-06-29 per WHO Weekly External Situation Report 06 (data a
+2026-06-22,DRC,1048,267.0,112.0,compiled,"BNO @BNOFeed June 22; 2026 graphic (MoH DR Congo + MoH Uganda + WHO; """
+2026-06-23,DRC,1094,277.0,115.0,compiled,BACKFILL (added 2026-06-24 run): BNO @BNOFeed June 23; 2026 graphic (M
+2026-06-24,DRC,1118,291.0,122.0,compiled,BNO @BNOFeed June 24; 2026 graphic (MoH DR Congo + MoH Uganda + MoH Fr
+2026-06-25,DRC,1155,304.0,138.0,compiled,BACKFILL (added 2026-06-26 run): BNO @BNOFeed June 25; 2026 graphic (M
+2026-06-26,DRC,1203,321.0,148.0,compiled,BACKFILL (added 2026-06-29 run): BNO @BNOFeed June 26; 2026 graphic (M
+2026-06-28,DRC,1307,377.0,180.0,compiled,REVISED 2026-06-30 run (WHO Weekly Sitrep 07 reconciliation; source #1
+2026-06-29,DRC,1307,377.0,180.0,compiled,"BNO @BNOFeed June 29; 2026 graphic (""45 days since first case""; MoH DR"
+2026-06-30,DRC,1333,399.0,189.0,compiled,"BNO @BNOFeed June 30; 2026 graphic (""46 days since first case""; MoH DR"
+2026-07-01,DRC,1406,438.0,192.0,compiled,"BNO @BNOFeed July 1; 2026 graphic (""47 days since first case""; MoH DR "
+2026-07-02,DRC,1460,452.0,213.0,compiled,BNO @BNOFeed July 2; 2026 graphic (48 days since first case; MoH DR Co
+2026-07-03,DRC,1502,473.0,229.0,compiled,"BNO @BNOFeed July 3; 2026 graphic (""49 days since first case""; MoH DR "
+2026-07-04,DRC,1528,492.0,239.0,compiled,"BNO @BNOFeed July 4; 2026 graphic (""50 days since first case""; MoH DR "
+2026-07-05,DRC,1624,521.0,254.0,compiled,REVISED 2026-07-12 run per WHO Weekly External Situation Report 08; da
+2026-07-06,DRC,1624,521.0,273.0,compiled,BNO @BNOFeed JULY 6; 2026 graphic (read via Chrome; zoomed): DR Congo 
+2026-07-07,DRC,1708,580.0,280.0,compiled,BNO @BNOFeed JULY 7; 2026 graphic (read via Chrome; zoomed): DR Congo 
+2026-07-08,DRC,1759,600.0,285.0,compiled,BNO @BNOFeed JULY 8; 2026 graphic (read via Chrome; zoomed): DR Congo 
+2026-07-09,DRC,1792,625.0,295.0,compiled,BNO @BNOFeed JULY 9; 2026 graphic (read via Chrome; zoomed): DR Congo 
+2026-07-10,DRC,1830,648.0,295.0,compiled,BNO @BNOFeed JULY 10; 2026 graphic (read via Chrome; zoomed): DR Congo
+2026-07-11,DRC,1873,672.0,306.0,compiled,BNO @BNOFeed JULY 11; 2026 graphic (read via Chrome; zoomed): DR Congo
+2026-07-12,DRC,1963,719.0,318.0,compiled,REVISED 2026-07-14 run (WHO Weekly Sitrep 09; data as of 12 July; sour
+2026-07-13,DRC,1963,719.0,333.0,compiled,BACKFILL (added 2026-07-14 run; daily-row policy). BNO @BNOFeed JULY 1
+2026-07-14,DRC,2073,796.0,366.0,compiled,REVISED 2026-07-20 run (upward reconciliation). ECDC fixes the DRC dat
+2026-07-15,DRC,2124,828.0,390.0,compiled,BACKFILL (added 2026-07-20 run; daily-row policy). SOURCE #2; GOLD-TIE
+2026-07-16,DRC,2124,828.0,,compiled,REVISED 2026-07-20 run. Previously carried 2;073/796 (WHO DG 16 July b
+2026-07-17,DRC,2181,864.0,,compiled,BACKFILL (added 2026-07-20 run; daily-row policy). Reuters via CGTN; 1
+2026-07-18,DRC,2267,893.0,,compiled,BACKFILL (added 2026-07-20 run; daily-row policy). Reuters via Asharq 
+2026-07-19,DRC,2344,930.0,466.0,compiled,BNO @BNOFeed JULY 19; 2026 graphic (read via Chrome; zoomed): DR Congo
+2026-07-20,DRC,2423,967.0,469.0,compiled,BNO @BNOFeed JULY 20; 2026 graphic (read via Chrome; zoomed): DR Congo
+2026-07-21,DRC,2473,999.0,482.0,compiled,Reuters via CNBC Africa; DAKAR 22 July 2026: DRC confirmed cases rise 
+2026-07-22,DRC,2536,1033.0,506.0,compiled,BNO @BNOFeed JULY 22; 2026 graphic (read via Chrome; zoomed): DR Congo
+2026-07-23,DRC,2905,1269.0,519.0,compiled,BNO @BNOFeed JULY 23; 2026 graphic (read via Chrome; zoomed): DR Congo
+2026-07-24,DRC,2973,1309.0,540.0,compiled,BNO @BNOFeed JULY 24; 2026 graphic (read via Chrome): DR Congo 2;973 c
+2026-07-25,DRC,3075,1354.0,556.0,compiled,BNO @BNOFeed JULY 25; 2026 graphic (read via Chrome; zoomed): DR Congo
+2026-07-26,DRC,3262,1437.0,583.0,compiled,WHO AFRO Weekly Sitrep 11; data as of 26 July 2026 (read via Chrome; z
+2026-07-27,DRC,3262,1437.0,583.0,compiled,WHO AFRO Weekly Sitrep 11; data as of 26 July 2026 (read via Chrome; z
+2026-07-28,DRC,3360,1487.0,597.0,compiled,BNO @BNOFeed JULY 28; 2026 graphic (read via Chrome; zoomed): DR Congo
+2026-07-29,DRC,3442,1521.0,615.0,compiled,"AP; 30 July 2026: DRC government update ""as of Tuesday"" (28 July) give"
+2026-07-30,DRC,3532,1556.0,626.0,compiled,Reuters via CNBC Africa; 31 July 2026 and Xinhua (French); Kinshasa 31
+2026-07-31,DRC,3605,1587.0,651.0,compiled,BNO News @BNOFeed Daily Ebola Update graphic embedded-dated JULY 31; 2
+2026-08-01,DRC,3674,1621.0,666.0,compiled,BNO News @BNOFeed Daily Ebola Update graphic embedded-dated AUGUST 1; 
+2026-08-02,DRC,3748,1657.0,708.0,compiled,BNO News @BNOFeed Daily Ebola Update graphic embedded-dated AUGUST 2; 
+2026-08-03,DRC,3802,1707.0,727.0,compiled,AP via ABC News; 4 August 2026 and Euronews; 4 August 2026; both carry
+2026-08-04,DRC,3874,1751.0,749.0,compiled,Anadolu Agency; 5 August 2026 reporting the DRC Ministry of Public Hea
+2026-08-05,DRC,3973,1801.0,776.0,compiled,BNO News @BNOFeed Daily Ebola Update graphic embedded-dated AUGUST 5; 
+2026-08-06,DRC,4053,1850.0,793.0,compiled,BNO News @BNOFeed Daily Ebola Update graphic embedded-dated AUGUST 6; 
+2026-08-07,DRC,4120,1887.0,810.0,compiled,BNO News @BNOFeed Daily Ebola Update graphic embedded-dated AUGUST 7; 
+2026-08-08,DRC,4209,1916.0,828.0,compiled,DRC Ministry of Public Health situation report via the Ministry of Com
+2026-08-09,DRC,4294,1960.0,849.0,compiled,DRC Ministry of Public Health situation report via the Ministry of Com
+2026-08-10,DRC,4381,2011.0,869.0,compiled,BACKFILL (added 2026-08-11 run; daily-row policy). DRC Ministry of Pub
+2026-08-11,DRC,4449,2061.0,886.0,compiled,DRC Ministry of Public Health situation report via the Ministry of Com
+2026-08-12,DRC,4566,2128.0,918.0,compiled,DRC MoH / INSP situation report as of 11 August 2026; published 12 Aug
+2026-08-13,DRC,4665,2184.0,965.0,compiled,DRC Ministry of Public Health situation report via the Ministry of Com
+2026-08-14,DRC,4727,2214.0,976.0,compiled,BACKFILL (added 2026-08-17 run; daily-row policy; no run fired on 15 o
+2026-08-15,DRC,4843,2272.0,1006.0,compiled,BACKFILL (added 2026-08-17 run; daily-row policy; no run fired on 15 o
+2026-08-16,DRC,4945,2325.0,1040.0,compiled,BACKFILL (added 2026-08-17 run; daily-row policy; no run fired on 15 o
+2026-08-17,DRC,5021,2378.0,1061.0,compiled,BACKFILL (added 2026-08-18 run; daily-row policy). WHO AFRO EBOLA BUND
+2026-08-18,DRC,5105,2420.0,1091.0,compiled,INSP SitRep 095 via tracker
+2026-08-19,DRC,5208,2476.0,1115.0,compiled,INSP SitRep 096 via tracker
+2026-08-20,DRC,5290,2516.0,1152.0,compiled,INSP SitRep 097 via tracker
+2026-08-21,DRC,5375,2557.0,1167.0,compiled,INSP SitRep 098 via tracker
+2026-08-22,DRC,5458,2606.0,1182.0,compiled,INSP SitRep 099 via tracker
+2026-08-23,DRC,5514,2642.0,1200.0,compiled,INSP SitRep 0100 via tracker
+2026-08-24,DRC,5584,2680.0,1215.0,compiled,INSP SitRep 101 via tracker
+2026-08-25,DRC,5656,2715.0,1245.0,compiled,INSP SitRep 102 via tracker
+2026-08-26,DRC,5713,2744.0,1269.0,compiled,INSP SitRep 103 via tracker
+2026-08-27,DRC,5794,2786.0,1293.0,compiled,INSP SitRep 104 via tracker
+2026-08-28,DRC,5863,2824.0,1318.0,compiled,INSP SitRep 105 via tracker
+2026-08-29,DRC,5945,2862.0,1327.0,compiled,INSP SitRep 106 via tracker
+2026-08-30,DRC,6041,2911.0,1366.0,compiled,INSP SitRep 107 via tracker
+2026-08-31,DRC,6100,2950.0,1383.0,compiled,INSP SitRep 108 via tracker
+2026-09-01,DRC,6186,3007.0,1409.0,compiled,INSP SitRep 109 via tracker
+2026-09-02,DRC,6250,3039.0,1439.0,compiled,INSP SitRep 110 via tracker
+2026-09-03,DRC,6342,3072.0,1475.0,compiled,INSP SitRep 111 via tracker
+2026-09-04,DRC,6436,3095.0,1495.0,compiled,INSP SitRep 112 via tracker
+2026-09-05,DRC,6522,3134.0,1516.0,compiled,INSP SitRep 113 via tracker
+2026-09-06,DRC,6604,3175.0,1548.0,compiled,INSP SitRep 114 via tracker
+2026-09-07,DRC,6686,3226.0,1563.0,compiled,INSP SitRep 115 via tracker
+2026-09-08,DRC,6757,3267.0,1590.0,compiled,INSP SitRep 116 via tracker
+2026-09-09,DRC,6843,3310.0,1611.0,compiled,INSP SitRep 117 via tracker
+2026-09-10,DRC,6942,3349.0,1647.0,compiled,INSP SitRep 118 via tracker
+2026-09-11,DRC,7022,3398.0,1671.0,compiled,INSP SitRep 119 via tracker
+2026-09-12,DRC,7113,3437.0,1692.0,compiled,INSP SitRep 120 via tracker
+2026-09-13,DRC,7200,3475.0,1712.0,compiled,INSP SitRep 121 via tracker
+2026-09-14,DRC,7258,3510.0,1726.0,compiled,INSP SitRep 122 via tracker
+2026-09-15,DRC,7345,3545.0,1753.0,compiled,INSP SitRep 123 via tracker
+2026-09-16,DRC,7404,3577.0,1776.0,compiled,INSP SitRep 124 via tracker
+2026-09-17,DRC,7475,3605.0,1798.0,compiled,INSP SitRep 125 via tracker
+2026-09-18,DRC,7541,3639.0,1823.0,compiled,INSP SitRep 126 via tracker
+2026-09-19,DRC,7614,3676.0,1864.0,compiled,INSP SitRep 127 via tracker
+2026-09-20,DRC,7672,3699.0,1879.0,compiled,INSP SitRep 128 via tracker
+2026-09-21,DRC,7733,3732.0,1902.0,compiled,INSP SitRep 129 via tracker
+2026-09-22,DRC,7773,3759.0,1935.0,compiled,INSP SitRep 130 via tracker
+2026-09-23,DRC,7820,3779.0,1951.0,compiled,INSP SitRep 131 via tracker
+2026-09-24,DRC,7890,3799.0,1966.0,compiled,INSP SitRep 132 via tracker
+2026-09-25,DRC,7946,3833.0,2001.0,compiled,INSP SitRep 133 via tracker
+2026-09-26,DRC,7989,3852.0,2033.0,compiled,INSP SitRep 134 via tracker
+2026-09-27,DRC,8067,3901.0,2070.0,compiled,INSP SitRep 135 via tracker
+2026-09-28,DRC,8116,3924.0,2088.0,compiled,INSP SitRep 136 via tracker
+2026-09-29,DRC,8171,3954.0,2105.0,compiled,INSP SitRep 137 via tracker
+2026-09-30,DRC,8224,3982.0,2121.0,compiled,INSP SitRep 138 via tracker
+2026-10-01,DRC,8300,4018.0,2162.0,compiled,INSP SitRep 139 via tracker
+2026-10-02,DRC,8376,4042.0,2182.0,compiled,INSP SitRep 140 via tracker
+2026-10-03,DRC,8442,4080.0,2213.0,compiled,INSP SitRep 141 via tracker
+2026-10-05,DRC,8603,4148.0,2235.0,compiled,INSP SitRep 143 via tracker
+2026-10-06,DRC,8665,4178.0,2259.0,compiled,INSP SitRep 144 via tracker
+2026-05-15,Uganda,1,1.0,0.0,compiled,Uganda MoH (cross-referenced with main row source)
+2026-05-16,Uganda,2,1.0,0.0,compiled,Uganda MoH (cross-referenced with main row source)
+2026-05-17,Uganda,2,1.0,0.0,compiled,Uganda MoH (cross-referenced with main row source)
+2026-05-18,Uganda,2,1.0,0.0,compiled,Uganda MoH (cross-referenced with main row source)
+2026-05-19,Uganda,2,1.0,0.0,compiled,Uganda MoH (cross-referenced with main row source)
+2026-05-20,Uganda,2,1.0,0.0,compiled,Uganda MoH (cross-referenced with main row source)
+2026-05-21,Uganda,2,1.0,0.0,compiled,Uganda MoH (cross-referenced with main row source)
+2026-05-22,Uganda,2,1.0,0.0,compiled,Uganda MoH (cross-referenced with main row source)
+2026-05-23,Uganda,5,1.0,0.0,compiled,Uganda MoH (cross-referenced with main row source)
+2026-05-24,Uganda,7,1.0,0.0,compiled,WHO AFRO Weekly External Situation Report 02 (data as of 24 May 2026; 
+2026-05-25,Uganda,7,1.0,0.0,compiled,Uganda MoH press release (May 25): +2 confirmed health workers; Kampal
+2026-05-26,Uganda,7,1.0,0.0,compiled,Uganda unchanged at 7 conf / 1 death through 27 May per WHO DON605; WH
+2026-05-27,Uganda,7,1.0,0.0,compiled,WHO DON605 Uganda figures: 7 conf / 1 death through 27 May. Uganda MoH
+2026-05-28,Uganda,8,1.0,0.0,compiled,Africa CDC briefing 28 May 2026 (DG Jean Kaseya via CIDRAP): Uganda 8 
+2026-05-29,Uganda,9,1.0,0.0,compiled,WHO DON605: Uganda 9 confirmed cases / 1 death as of 29 May. +1 vs May
+2026-05-30,Uganda,9,1.0,0.0,compiled,BNO @BNOFeed Daily Ebola Update May 30 graphic: Uganda 9 confirmed / 1
+2026-05-31,Uganda,9,1.0,0.0,compiled,BNO @BNOFeed Daily Ebola Update May 31 graphic: Uganda 9 confirmed / 1
+2026-06-01,Uganda,9,1.0,0.0,compiled,BNO @BNOFeed Daily Ebola Update June 1; 2026 graphic: Uganda 9 confirm
+2026-06-02,Uganda,15,1.0,0.0,compiled,"Uganda MoH June 2 press release via Xinhua; Kampala June 2 2026: ""Ugan"
+2026-06-03,Uganda,15,1.0,2.0,compiled,"WHO Director-General media briefing; 3 June 2026: ""In Uganda; there is"
+2026-06-04,Uganda,16,1.0,2.0,compiled,BACKFILL (added 2026-06-08 run): BNO @BNOFeed June 4; 2026 graphic + U
+2026-06-05,Uganda,19,2.0,4.0,compiled,[WHO Disease Outbreak News; as of 5 June 2026]: Uganda 19 confirmed / 
+2026-06-06,Uganda,19,2.0,4.0,compiled,BACKFILL (added 2026-06-08 run): BNO @BNOFeed June 6; 2026 graphic: Ug
+2026-06-07,Uganda,19,2.0,4.0,compiled,REVISED 2026-06-12 per WHO Weekly External Situation Report 04 (data a
+2026-06-08,Uganda,19,2.0,4.0,compiled,BNO News @BNOFeed Daily Ebola Update June 8; 2026 graphic (MoH DR Cong
+2026-06-09,Uganda,19,2.0,5.0,compiled,BNO News @BNOFeed Daily Ebola Update June 9; 2026 graphic (MoH DR Cong
+2026-06-10,Uganda,19,2.0,5.0,compiled,BNO News @BNOFeed Daily Ebola Update June 10; 2026 graphic (MoH DR Con
+2026-06-11,Uganda,19,2.0,5.0,compiled,BACKFILL (added 2026-06-12 run): BNO @BNOFeed June 11; 2026 graphic (M
+2026-06-12,Uganda,19,2.0,5.0,compiled,BACKFILL (added 2026-06-14 run): derived from BNO @BNOFeed June 13; 20
+2026-06-13,Uganda,19,2.0,5.0,compiled,BACKFILL (added 2026-06-14 run): BNO @BNOFeed June 13; 2026 graphic (M
+2026-06-14,Uganda,19,2.0,,compiled,REVISED 2026-06-16 per WHO Weekly External Situation Report 05 (data a
+2026-06-15,Uganda,19,2.0,5.0,compiled,BACKFILL (added 2026-06-16 run): BNO @BNOFeed June 15; 2026 graphic (M
+2026-06-16,Uganda,19,2.0,5.0,compiled,BACKFILL (added 2026-06-17 run): BNO @BNOFeed June 16; 2026 graphic (M
+2026-06-17,Uganda,19,2.0,5.0,compiled,BACKFILL (added 2026-06-18 run): BNO @BNOFeed June 17; 2026 graphic (M
+2026-06-18,Uganda,19,2.0,10.0,compiled,BNO @BNOFeed June 18; 2026 graphic (MoH DR Congo + MoH Uganda + WHO): 
+2026-06-19,Uganda,19,2.0,10.0,compiled,BNO @BNOFeed June 19; 2026 graphic (MoH DR Congo + MoH Uganda + WHO): 
+2026-06-20,Uganda,19,2.0,10.0,compiled,BACKFILL (added 2026-06-21 run): BNO @BNOFeed June 20; 2026 graphic (M
+2026-06-21,Uganda,20,2.0,10.0,compiled,REVISED 2026-06-29 per WHO Weekly External Situation Report 06 (data a
+2026-06-22,Uganda,20,2.0,10.0,compiled,REVISED 2026-06-29 (no-dip carry-forward from WHO Weekly External Situ
+2026-06-23,Uganda,20,2.0,14.0,compiled,BACKFILL (added 2026-06-24 run): BNO @BNOFeed June 23; 2026 graphic (M
+2026-06-24,Uganda,20,2.0,15.0,compiled,BNO @BNOFeed June 24; 2026 graphic (MoH DR Congo + MoH Uganda + MoH Fr
+2026-06-25,Uganda,20,2.0,15.0,compiled,BACKFILL (added 2026-06-26 run): BNO @BNOFeed June 25; 2026 graphic (M
+2026-06-26,Uganda,20,2.0,15.0,compiled,BACKFILL (added 2026-06-29 run): BNO @BNOFeed June 26; 2026 graphic (M
+2026-06-28,Uganda,20,2.0,15.0,compiled,BNO @BNOFeed June 28; 2026 graphic (MoH DR Congo + MoH Uganda + MoH Fr
+2026-06-29,Uganda,20,2.0,15.0,compiled,BNO @BNOFeed June 29; 2026 graphic: Uganda 20 confirmed (unchanged) / 
+2026-06-30,Uganda,20,2.0,15.0,compiled,BNO @BNOFeed June 30; 2026 graphic: Uganda 20 confirmed (unchanged) / 
+2026-07-01,Uganda,20,2.0,15.0,compiled,BNO @BNOFeed July 1; 2026 graphic: Uganda 20 confirmed (unchanged) / 2
+2026-07-02,Uganda,20,2.0,15.0,compiled,BNO @BNOFeed July 2; 2026 graphic: Uganda 20 confirmed (unchanged) / 2
+2026-07-03,Uganda,20,2.0,16.0,compiled,BNO @BNOFeed July 3; 2026 graphic: Uganda 20 confirmed (unchanged) / 2
+2026-07-04,Uganda,20,2.0,16.0,compiled,BNO @BNOFeed July 4; 2026 graphic: Uganda 20 confirmed (unchanged) / 2
+2026-07-05,Uganda,20,2.0,16.0,compiled,BNO @BNOFeed July 5; 2026 graphic: Uganda 20 confirmed (unchanged) / 2
+2026-07-06,Uganda,20,2.0,16.0,compiled,BNO @BNOFeed JULY 6; 2026 graphic: Uganda 20 confirmed (unchanged) / 2
+2026-07-07,Uganda,20,2.0,17.0,compiled,BNO @BNOFeed JULY 7; 2026 graphic: Uganda 20 confirmed (unchanged) / 2
+2026-07-08,Uganda,20,2.0,17.0,compiled,BNO @BNOFeed JULY 8; 2026 graphic: Uganda 20 confirmed (unchanged) / 2
+2026-07-09,Uganda,20,2.0,17.0,compiled,BNO @BNOFeed JULY 9; 2026 graphic: Uganda 20 confirmed (unchanged) / 2
+2026-07-10,Uganda,20,2.0,17.0,compiled,BNO @BNOFeed JULY 10; 2026 graphic: Uganda 20 confirmed (unchanged) / 
+2026-07-11,Uganda,20,2.0,17.0,compiled,BNO @BNOFeed JULY 11; 2026 graphic: Uganda 20 confirmed (unchanged) / 
+2026-07-12,Uganda,20,2.0,17.0,compiled,BNO @BNOFeed JULY 12; 2026 graphic: Uganda 20 confirmed (unchanged) / 
+2026-07-13,Uganda,20,2.0,17.0,compiled,BACKFILL (added 2026-07-14 run). BNO @BNOFeed JULY 13; 2026 graphic: U
+2026-07-14,Uganda,20,2.0,17.0,compiled,Uganda 20 confirmed / 2 deaths; unchanged. Last confirmed case reporte
+2026-07-15,Uganda,20,2.0,,compiled,Uganda 20 confirmed / 2 deaths; unchanged. Last confirmed case reporte
+2026-07-16,Uganda,20,2.0,,compiled,Uganda 20 confirmed / 2 deaths; unchanged. Last confirmed case reporte
+2026-07-17,Uganda,20,2.0,,compiled,Uganda 20 confirmed / 2 deaths; unchanged. Last confirmed case reporte
+2026-07-18,Uganda,20,2.0,,compiled,Uganda 20 confirmed / 2 deaths; unchanged. Last confirmed case reporte
+2026-07-19,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths; unchanged. Last confirmed case reporte
+2026-07-20,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths; unchanged. Last confirmed case reporte
+2026-07-21,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths; unchanged. Last confirmed case reporte
+2026-07-22,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths; unchanged (18 recovered). Last confirm
+2026-07-23,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered; unchanged. Last confirm
+2026-07-24,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered; unchanged. Last confirm
+2026-07-25,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered; unchanged. Last confirm
+2026-07-26,Uganda,20,2.0,18.0,compiled,WHO AFRO Weekly Sitrep 11 (data as of 26 July 2026): Uganda 20 confirm
+2026-07-27,Uganda,20,2.0,18.0,compiled,WHO AFRO Weekly Sitrep 11 (data as of 26 July 2026): Uganda 20 confirm
+2026-07-28,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL. Uganda's Minist
+2026-07-29,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL. Uganda's Minist
+2026-07-30,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL. Uganda's Minist
+2026-07-31,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged on th
+2026-08-01,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged on th
+2026-08-02,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged on th
+2026-08-03,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; carried. Uganda
+2026-08-04,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; carried. Uganda
+2026-08-05,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged on th
+2026-08-06,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged on th
+2026-08-07,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged on th
+2026-08-08,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; carried. Outbre
+2026-08-09,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; carried. Outbre
+2026-08-10,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged on th
+2026-08-11,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged on th
+2026-08-12,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged on th
+2026-08-13,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged on th
+2026-08-14,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. Outb
+2026-08-15,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. Outb
+2026-08-16,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. Outb
+2026-08-17,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. Conf
+2026-08-18,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-08-19,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-08-20,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-08-21,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-08-22,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-08-23,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-08-24,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-08-25,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-08-26,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-08-27,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-08-28,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-08-29,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-08-30,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-08-31,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-01,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-02,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-03,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-04,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-05,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-06,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-07,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-08,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-09,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-10,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-11,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-12,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-13,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-14,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-15,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-16,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-17,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-18,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-19,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-20,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-21,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-22,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-23,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-24,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-25,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-26,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-27,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-28,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-29,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-09-30,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-10-01,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-10-02,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-10-03,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-10-05,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
+2026-10-06,Uganda,20,2.0,18.0,compiled,Uganda 20 confirmed / 2 deaths / 18 recovered - FINAL; unchanged. The 
